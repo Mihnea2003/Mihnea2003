@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bucur Mihnea</h1>
 <h3 align="center">A passionate programmer and a student at Babes-Bolyai University</h3>
 
-- 🔭 I’m currently working on **Raiffensen Bank Project**
+- 🔭 I’m currently working on **Raiffeinsen Bank Project**
 
 - 🌱 I’m currently learning **Java,Sql,Prolog and Lisp**
 
