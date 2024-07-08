@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bucur Mihnea</h1>
 <h3 align="center">A passionate programmer and a student at Babes-Bolyai University</h3>
 
-- 🔭 I’m currently working on **Raiffeinsen Bank Project**
+- 🔭 I’m currently searching for a job
 
-- 🌱 I’m currently learning **Java,Sql,Prolog and Lisp**
+- 🌱 I’m currently learning **React,Sql,Javascript and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mihnea2003/Babes-Bolyai-University](https://github.com/Mihnea2003/Babes-Bolyai-University)
 
