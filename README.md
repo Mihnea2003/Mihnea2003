@@ -6,7 +6,7 @@
 - 🌱 I’m good at **React Native,Sql,Javascript and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mihnea2003/Babes-Bolyai-University](https://github.com/Mihnea2003/Babes-Bolyai-University)
-- My biggest project is also my thesis [https://github.com/Mihnea2003/Thesis-project-Wellnest]
+- My biggest project is also my thesis [https://github.com/Mihnea2003/Thesis-project-Wellnest](https://github.com/Mihnea2003/Thesis-project-Wellnest)
 
 - 📫 How to reach me **bucur.mihnea03@gmail.com**
 
