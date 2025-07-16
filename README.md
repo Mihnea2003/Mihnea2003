@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bucur Mihnea</h1>
-<h3 align="center">A passionate programmer and a student at Babes-Bolyai University</h3>
+<h3 align="center">A passionate programmer and used to be a student at Babes-Bolyai University</h3>
 
 - 🔭 I’m currently searching for a job
 
-- 🌱 I’m currently learning **React,Sql,Javascript and Typescript**
+- 🌱 I’m good at **React Native,Sql,Javascript and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mihnea2003/Babes-Bolyai-University](https://github.com/Mihnea2003/Babes-Bolyai-University)
+- My biggest project is also my thesis 
 
 - 📫 How to reach me **bucur.mihnea03@gmail.com**
 
